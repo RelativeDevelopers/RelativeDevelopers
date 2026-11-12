@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://relativedevelopers.com/">🌐 Web</a> ·
   <a href="https://www.instagram.com/relativedevelopers/">Instagram</a> ·
-  <a href="https://www.linkedin.com/in/relative-developers/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/relative-developers/">LinkedIn</a>
 </p>
 
 ---
